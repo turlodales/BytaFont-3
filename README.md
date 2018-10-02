@@ -108,37 +108,19 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 11.2.4.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 
 
-
 # Supported Devices iOS 12.0 to iOS 12.0 
 | iOS |5S|6/+|6S/+|SE|7/+|8/+|X|XR|XS|XS Max|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-| iOS 12.0	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
+| iOS 12.0 | |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
+| iOS 12.1 B1	|  Untested/Unknown |  Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-|iOS 12.0 | N/A |N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown
+|iOS 12.0 |  Untested/Unknown | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown
-
-
-
-# My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|
-| iPhone 5S | iOS 9.3.3 | working || iPhone 6S+ | iOS 9.3.3 | working |
-| iPhone 5S | iOS 9.3.4 | Untested/Unknown || iPhone 6S+ | iOS 9.3.4 | Untested/Unknown |
-| iPhone 5S | iOS 9.3.5 | Untested/Unknown || iPhone 6S+ | iOS 9.3.5 | Untested/Unknown |
-
-
-# My iPad's iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|
-| iPad Air 2 | iOS 9.3.3 | Working || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
-| iPad Air 2 | iOS 9.3.4 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | Untested/Unknown |
-| iPad Air 2 | iOS 9.3.5 | Untested/Unknown || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | Untested/Unknown |
 
 
 # Planned Supported Devices above iOS 10
@@ -201,6 +183,25 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 11.4.1| Untested/Unknown |working/tested|
 
 
+# Supported Devices iPad's iOS 11.0 to iOS 11.4.1 Devices 64Bit
+| iOS |iPad Air 2|iPad Air Pro 12.9 1st gen|
+|----------|----------|----------|
+| iOS 12.0| Untested/Unknown |Untested/Unknown |
+| iOS 12.1| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown|
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |Untested/Unknown |
+| iOS 12.?.?| Untested/Unknown |working/tested|
+| iOS 12.?.?| Untested/Unknown |working/tested|
+| iOS 12.?.?| Untested/Unknown |working/tested|
+| iOS 12.?.?| Untested/Unknown |working/tested|
+| iOS 12.?.?| Untested/Unknown |working/tested|
+
 # Planned Supported Devices 
 | Device | Supports |
 |---------|----------|
@@ -215,22 +216,15 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | apple tv 4 | planned |
 
 
-new fetures: 
-
-no new fetures as of this point not so say it will never happen just not yet just getting it up and running first is the main thing
-
-i will be making this a paid tweak $3.49 the original tweak is $2.49 that will be keeped aside incase the original owner comes back im im not here to rip people off from the date i recive a first payment i will be keeping the $2.49 from every purchase for the original owner for 1 year if he dos not get in contact after one year from the date then i will be keeping the funds and dropping the price back down to the $2.49 as i not here to get rich of someone elses work but just to cover the cost of my time to keep this grate tweak alive.
+my goal is to keep this grate tweak alive.
 
 i would like to say a big thank you to the people that has helped me make this happen:
 
-Allan Kerr the person that make this tweak in the first place
+Bytafont.com the person that make this tweak in the first place
 
 myself to prove that even someone like me with dislexic can do thing to help the jailbraking cumunity 
 
 FreeNAS OS for my Home Server's
 
-Youtube for the vid's that have helped me do this i will list them all soon
-
-more to follow
 
 In case anyone is wondering i started using jail broken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ i do like the S models. i only have 2 iPads Air 2 and Pro 12.9. i have the Apple TV 3 and 4 sadly both not jailbroken yet and i have the Apple Watch 1st gen. i just want to help put sonething back into the community. 
