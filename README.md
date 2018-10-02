@@ -1,4 +1,4 @@
-# BytaFont 3
+# BytaFont 3 For iOS 10.0 to 11.3.1
 
 Note this is a copy of my other post this will go tho a few changes be it is finished to a work in progress
 
@@ -42,7 +42,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iOS 10.3.3| Untested/Unknown |working/tested|
 
 
-iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
+iPhone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 
 
 # Devices 64Bit
@@ -121,22 +121,6 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/UnknownUntested/Unknown |Untested/Unknown |
 | iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/UnknownUntested/Unknown |Untested/Unknown |
 | iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/UnknownUntested/Unknown |Untested/Unknown |
-
-
-# Supported Devices iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
-| iOS |iPad Air 2|iPad Air Pro 12.9 1st gen|
-|----------|
-| iOS 10.0.1 | Untested/Unknown |Untested/Unknown |
-| iOS 10.0.2 | Untested/Unknown |Untested/Unknown |
-| iOS 10.0.3 | Untested/Unknown |Untested/Unknown |
-| iOS 10.1 | Untested/Unknown | Working/Tested|
-| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |
-| iOS 10.2| Untested/Unknown |Untested/Unknown |
-| iOS 10.2.1| Untested/Unknown |Untested/Unknown |
-| iOS 10.3| Untested/Unknown |Untested/Unknown |
-| iOS 10.3.1| Untested/Unknown |Untested/Unknown |
-| iOS 10.3.2| Untested/Unknown |Untested/Unknown |
-| iOS 10.3.3| Untested/Unknown |working/tested|
 
 
 # Planned Supported Devices 
