@@ -2,7 +2,7 @@
 
 Note this is a copy of my other post this will go tho a few changes be it is finished to a work in progress
 
-Note this is a a working verson of Bytafont 3 for ios 11.0 to 11.3.1 But dos not work some 3rd party bytafont 3 fonts 
+Note this is a working verson of Bytafont 3 for ios 11.0 to 11.3.1 But dos not work some 3rd party bytafont 3 fonts 
 
 i like using Blade 2 so im mostly doing this so i can get it reworking for my own use but if in ends up working for other font's for other people then fair enough
 
