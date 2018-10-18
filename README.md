@@ -268,7 +268,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 I would like to say a big thank you to the people that have helped me make this happen:
 
-Josh Doctors the person that makes this tweak in the first place
+BytaFont that makes this tweak in the first place
 
 more to follow if I get help
 
