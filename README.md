@@ -6,9 +6,9 @@ Note this is a working verson of Bytafont 3 for ios 10.0 to 11.3.1 But dos not w
 
 | Decsription | Link|
 |---------|----------|
-| BytaFont 4 (64bit)  | https://github.com/turlodales/BlueBoard-2 |
-| BytaFont 4 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
-| BytaFont 4 (TVOS)   | https://github.com/turlodales/BlueBoard-2-TVOS |
+| BytaFont 4 (64bit)  | https://github.com/turlodales/BytaFont-4 |
+| BytaFont 4 (iPadOS) | https://github.com/turlodales/BytaFont-4-iPadOS |
+| BytaFont 4 (TVOS)   | https://github.com/turlodales/BytaFont-4-TVOS |
 
 i like using Blade 2 so im mostly doing this so i can get it reworking for my own use but if in ends up working for other font's for other people then fair enough
 
