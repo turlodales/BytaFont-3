@@ -127,7 +127,7 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 | iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
 
-# Supported Devices iOS 10.0 to iOS 10.3.3
+# Supported Devices iOS 10.0 to iOS 10.3.4
 |iOS         |       5| 5C     |iPod Touch 5|iPad 4|
 |----------|----------|----------|----------|----------|
 | iOS 10.0   | Untested|Untested|Untested|Untested|
@@ -142,6 +142,7 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | iOS 10.3.1 | Untested|Untested|Untested|Untested|
 | iOS 10.3.2 | Untested|Untested|Untested|Untested|
 | iOS 10.3.3 | Untested|working |Untested|Untested|
+| iOS 10.3.4 | Untested|Untested|Untested|Untested|
 
 # Devices 64Bit
 
